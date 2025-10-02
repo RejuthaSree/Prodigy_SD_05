@@ -5,7 +5,7 @@ This is a simple Java project that scrapes web information from an e-commerce li
 
 ✅ Features
 ---
--Scrapes from: https://scrapeme.live/shop/?orderby=rating
+-Scraped from: https://scrapeme.live/shop/?orderby=rating
 
 -Extracts product title and price
 
